@@ -1,3 +1,4 @@
+// ./index.js
 const filter = require('./lib/filter');
 const findIndex = require('./lib/findIndex');
 const forEach = require('./lib/forEach');
